@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Eugene
-___
-🔗 LinkedIn: linkedin.com/in/eugen-bicko
-💬 Telegram: @eugenebiko
-___
+
 I’m a prompt engineer and tool developer focused on practical AI solutions.
 
 Before working in AI, I spent several years as a **lead engineer in an analytical laboratory**, where I contributed to the development of a **quality management system** and gained deep expertise in **analytical chemistry**.
@@ -59,3 +56,9 @@ Extracts key info: title, price, image URL, and direct link — useful for sourc
 `Python`, `Flask`, `SQLAlchemy`, `Telegram Bot API`, `Tkinter`,  
 `OpenRouter`, `ChromaDB`, `Cursor`, `Click`, `Docker`, `Git`,  
 `EasyOCR`, `VS Code`, `MacOS`, `Linux`
+
+___
+🔗 LinkedIn: linkedin.com/in/eugen-bicko
+
+💬 Telegram: @eugenebiko
+
