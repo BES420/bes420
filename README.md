@@ -1,0 +1,38 @@
+# 👋 Hi, I’m Eugene
+
+I’m a prompt engineer and tool developer focused on practical AI solutions.
+
+For the past 1.5 years, I’ve worked in customer support and sales, using ChatGPT-like tools daily.  
+This experience gave me deep insight into how clients interact with AI and what they expect from it.
+
+To boost my productivity, I started building custom prompt-based tools tailored to my tasks —  
+automating responses, improving speed, and integrating product knowledge directly into my flow.  
+These tools helped me consistently hit top sales while cutting manual work to a minimum.
+
+Later, I began sharing and adapting these tools for the rest of the team — scaling what started as personal automation into wider internal use.
+
+I enjoy building smart agents that solve real problems — especially tools that make work easier, faster, or more fun.  
+Lately, I’ve been exploring computer vision and building systems that extract structured information from raw images (like screenshots or listings).
+
+---
+
+## 🚀 Featured Projects
+
+### 🏷️ [TagMyShit (TMS)](https://github.com/BES420/TMS)  
+A Telegram-based image annotation tool.  
+Fast and simple interface for tagging images with categories and attributes.  
+Saves progress, exports in JSON, supports dynamic presets.  
+Actively used for internal dataset preparation.
+
+---
+
+### 🧠 AI Sales Assistant (internal)  
+Custom GPT-based assistant for sales agents.  
+Supports intelligent response generation, intent recognition, and editable suggestions.  
+Integrated with product catalogs and designed to reduce workload during peak hours.
+
+---
+
+### 🔍 Telegram Marketplace Parser  
+A Telegram bot that extracts and structures listing data from Facebook Marketplace URLs:  
+title, price, image, and direct link.  
