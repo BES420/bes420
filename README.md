@@ -31,6 +31,8 @@ Fast and simple interface for tagging images with categories and attributes.
 Saves progress, exports in JSON, supports dynamic presets.  
 Actively used for internal dataset preparation.
 
+Built from idea to working prototype in a single day.
+
 ---
 
 ### 🧠 AI Sales Assistant (internal)  
