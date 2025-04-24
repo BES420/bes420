@@ -43,7 +43,7 @@ Integrated with product catalogs and designed to reduce workload during peak hou
 
 ---
 
-### 🔍 Telegram Marketplace Parser
+### 🔍 Facebook Marketplace Parser
 
 A console-based parser that extracts and structures listing data from Facebook Marketplace URLs.  
 Built with Python and Selenium to navigate and scrape listings.  
