@@ -43,9 +43,11 @@ Integrated with product catalogs and designed to reduce workload during peak hou
 
 ---
 
-### 🔍 Telegram Marketplace Parser  
-A Telegram bot that extracts and structures listing data from Facebook Marketplace URLs:  
-title, price, image, and direct link.  
+### 🔍 Telegram Marketplace Parser
+
+A console-based parser that extracts and structures listing data from Facebook Marketplace URLs.  
+Built with Python and Selenium to navigate and scrape listings.  
+Extracts key info: title, price, image URL, and direct link — useful for sourcing, flipping, or data collection tasks.
 
 ---
 
