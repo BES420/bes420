@@ -58,8 +58,8 @@ Extracts key info: title, price, image URL, and direct link — useful for sourc
 `EasyOCR`, `VS Code`, `MacOS`, `Linux`
 
 ___
-🔗 LinkedIn: linkedin.com/in/eugen-bicko
 
 💬 **Telegram**: [@eugenebiko](https://t.me/eugenebiko)
+
 🔗 **LinkedIn**: [linkedin.com/in/eugen-bicko](https://www.linkedin.com/in/eugen-bicko/)
 
