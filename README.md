@@ -2,6 +2,10 @@
 
 I’m a prompt engineer and tool developer focused on practical AI solutions.
 
+Before working in AI, I spent several years as a **lead engineer in an analytical laboratory**, where I contributed to the development of a **quality management system** and gained deep expertise in **analytical chemistry**.
+
+I’m comfortable with chemical terminology and complex problem-solving — especially in lab workflows, scientific data interpretation, and instrumental methods like **atomic absorption spectroscopy**, **UV-Vis**, and others.
+
 For the past 1.5 years, I’ve worked in customer support and sales, using ChatGPT-like tools daily.  
 This experience gave me deep insight into how clients interact with AI and what they expect from it.
 
