@@ -1,5 +1,8 @@
 # 👋 Hi, I’m Eugene
-
+___
+🔗 LinkedIn: linkedin.com/in/eugen-bicko
+💬 Telegram: @eugenebiko
+___
 I’m a prompt engineer and tool developer focused on practical AI solutions.
 
 Before working in AI, I spent several years as a **lead engineer in an analytical laboratory**, where I contributed to the development of a **quality management system** and gained deep expertise in **analytical chemistry**.
