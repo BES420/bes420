@@ -23,7 +23,7 @@ Lately, I’ve been exploring computer vision and building systems that extract 
 ## 🚀 Featured Projects
 
 
-### 🏷️ [TagMyShit (TMS)](https://github.com/BES420/TMS)  
+### 🏷️ [TagMyShit (TMS)]
 
 A Telegram-based image annotation tool.  
 Fast and simple interface for tagging images with categories and attributes.  
