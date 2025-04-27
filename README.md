@@ -22,6 +22,30 @@ Lately, I’ve been exploring computer vision and building systems that extract 
 
 ## 🚀 Featured Projects
 
+### Telegram Catalog + Scrapy Parser via API
+
+**🔗 Link to bot:**  
+[Launch bot @alcoteka_test_task_bot](https://t.me/alcoteka_test_task_bot)
+
+
+## ✨ Project Overview
+
+- Fast product parser using Scrapy with direct API calls
+- Full product data collection by template
+- Simple Telegram catalog to view parsed products
+- Hosted 24/7 
+
+
+## 📂 Technologies
+
+- Python 3.11+
+- Scrapy
+- Telebot (pyTelegramBotAPI)
+- VPS (Linux + Systemd)
+
+
+
+---
 
 ### 🏷️ [TagMyShit (TMS)]
 
